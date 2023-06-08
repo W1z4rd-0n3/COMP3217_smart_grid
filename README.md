@@ -7,6 +7,7 @@ Aim :
 2. Train the model and use it to predict faults in similar systems.
 
 Usage: python3 ./filename
+
 TrainingDataBinary is for used for binary classification with 128 features (columns) and 6000 values (rows)
 TrainingDataMulti is for used for multiclass classification with 128 features (columns) and 6000 values (rows)
 
